@@ -1,13 +1,16 @@
-- National Scholarship of Graduate Student, 2024.
+- National College Student Mathematical Contest in Modeling, Second Prize, 2021.
 
-- First-prize Scholarship of CUMT, 2024.
+- Shanxi Division, College Student Mathematical Contest in Modeling, First Prize, 2021.
 
-- First-prize Scholarship of CUMT, 2023.
+- Shanxi Division, College Student Mathematical Contest in Modeling, First Prize, 2020.
 
-- Freshman Scholarship of CUMT, 2022.
+- Asia Pacific Mathematical Contest in Modeling (APMCM), Second Prize, 2020.
 
-- Excellent Graduation Project of Jiangsu Province, 2022.
+- Awarded: First-prize Scholarship (once), Second-prize Scholarship (three times), Third-prize Scholarship (twice), Department-level Merit Student
 
-- First-prize Enterprise Scholarship of CUMT, 2020.
 
-- First-prize Scholarship of CUMT, 2019.
+
+
+
+
+

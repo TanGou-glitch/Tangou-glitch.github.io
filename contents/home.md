@@ -1,15 +1,15 @@
 
 
-[![senli1073](https://img.shields.io/badge/senli1073-github-blue?logo=github)](https://github.com/senli1073)
+[![senli1073](https://img.shields.io/badge/senli1073-github-blue?logo=github)](https://github.com/TanGou-glitch)
 
-He is currently pursuing a Master's Degree in Computer Science, at School of Computer Science and Technology, China University of Mining and Technology, China.
+He is currently pursuing a Master's Degree in Big Data and Internet of Things, at GEMlab, Faculty of Applied Sciences, Macao Polytechnic University, Macao, focusing on Medical Imaging.
 
 #### Email
-sli[at]cumt.edu.cn
+itslen[at]126.com
 
 #### Education
-M.E., Computer Science and Technology, China University of Mining and Technology, 2022—2025 (expected).\
-B.E., Data Science and Big Data Technology, China University of Mining and Technology, 2018—2022.
+M.Sc., Big Data and Internet of Things, Macao Polytechnic University, 2024—2026 (expected).\
+B.E., Mechanical Engineering, Taiyuan University of Science and Technology, 2019—2023
 
 #### Research Interests
 Deep Learning, Artificial Intelligence Seismology, Mine Microseismic.
